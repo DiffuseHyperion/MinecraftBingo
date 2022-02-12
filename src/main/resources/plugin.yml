@@ -1,0 +1,5 @@
+name: Bingo
+version: '${project.version}'
+main: tk.yjservers.bingo.Bingo
+api-version: 1.18
+description: aaa
